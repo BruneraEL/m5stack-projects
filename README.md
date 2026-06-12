@@ -8,11 +8,11 @@ A collection of practical ESP32 and M5Stack projects developed for learning, exp
 
 ## Projects
 
-| Project               | Description                                               | Version | Status |
-| --------------------- | --------------------------------------------------------- | ------- | ------ |
-| WiFi Scanner          | Scan nearby Wi-Fi networks and display signal information | v1.0    |   ✅   |
-| WiFi Channel Analyzer | Analyze nearby Wi-Fi channels and identify congestion     | v1.0    |   ✅   |
-| WiFi Signal Check     | Check Wi-Fi signal strength and quality in real time      | v1.0    |   ✅   |
+| Project | Description | Version | Status |
+|----------|-------------|----------|----------|
+| WiFi Scanner | Scan nearby Wi-Fi networks | v1.0             | ✅ |
+| WiFi Channel Analyzer | Analyze Wi-Fi channel usage | v1.0   | ✅ |
+| WiFi Signal Check | Check Wi-Fi signal strength | v1.0       | ✅ |
 
 ## Hardware
 
