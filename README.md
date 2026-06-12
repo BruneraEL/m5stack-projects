@@ -8,18 +8,17 @@ A collection of practical ESP32 and M5Stack projects developed for learning, exp
 
 ## Projects
 
-| Project | Description |
-|----------|-------------|
-| WiFi Scanner | Scan nearby Wi-Fi networks and display signal information |
-| OLED Dashboard | System information dashboard |
-| BLE Scanner | Bluetooth Low Energy scanner |
-| ... | ... |
+| Project               | Description                                               | Version | Status |
+| --------------------- | --------------------------------------------------------- | ------- | ------ |
+| WiFi Scanner          | Scan nearby Wi-Fi networks and display signal information | v1.0    |   ✅   |
+| WiFi Channel Analyzer | Analyze nearby Wi-Fi channels and identify congestion     | v1.0    |   ✅   |
+| WiFi Signal Check     | Check Wi-Fi signal strength and quality in real time      | v1.0    |   ✅   |
 
 ## Hardware
 
-- M5StickC Plus
-- ESP32
-- M5Stack ecosystem
+* M5StickC Plus
+* ESP32
+* M5Stack ecosystem
 
 ---
 
